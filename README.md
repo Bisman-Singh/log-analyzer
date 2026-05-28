@@ -29,3 +29,5 @@ python main.py access.log --export-json report.json
 ```
 
 ## No external dependencies required!
+
+<sub><sup>Originally developed and tested locally during learning. Later organized and pushed to GitHub for portfolio visibility.</sup></sub>
